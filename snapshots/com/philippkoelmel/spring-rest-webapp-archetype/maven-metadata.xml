@@ -3,9 +3,10 @@
   <groupId>com.philippkoelmel</groupId>
   <artifactId>spring-rest-webapp-archetype</artifactId>
   <versioning>
+    <latest>0.0.1-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110316232306</lastUpdated>
+    <lastUpdated>20110317214224</lastUpdated>
   </versioning>
 </metadata>
